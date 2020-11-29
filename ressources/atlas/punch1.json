@@ -1,0 +1,29 @@
+{
+
+"images": [
+    "ressources/atlas/punch1.png"
+],
+
+"framerate": 8,
+"frames": [
+    [1, 1, 77, 87, 0, 0, 0],
+    [1, 90, 57, 87, 0, 0, 0],
+    [60, 90, 49, 87, 0, 0, 0],
+    [80, 1, 49, 87, 0, 0, 0],
+    [131, 1, 47, 87, 0, 0, 0]
+],
+
+"animations": {
+    "punch1": { "frames": [0, 1, 2, 3, 4] },
+    "4Plan de travail 3": { "frames": [1] },
+    "1Plan de travail 3": { "frames": [2] },
+    "2Plan de travail 3": { "frames": [3] },
+    "5Plan de travail 3": { "frames": [4] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:a8dfe7ea7e54d166a6ba5440a5445225:32af2af1e018916c6bfe517bfdc0c1c6:236844ca0d8e4c4032f11149c58341b3$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

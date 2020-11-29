@@ -1,0 +1,53 @@
+{
+
+"images": [
+    "ressources/atlas/P2.png"
+],
+
+"framerate": 8,
+"frames": [
+    [1, 1, 120, 199, 0, 68.5, 96.5],
+    [1, 202, 120, 183, 0, 59.5, 95],
+    [1, 202, 120, 183, 0, 59.5, 95],
+    [1, 387, 116, 183, 0, 56.5, 92.5],
+    [1, 387, 116, 183, 0, 56.5, 92.5],
+    [1, 572, 155, 179, 0, 77, 89.5],
+    [119, 387, 119, 179, 0, 58.5, 90.5],
+    [1, 753, 100, 178, 0, 45, 90.5],
+    [103, 753, 151, 175, 0, 71, 85],
+    [158, 568, 120, 175, 0, 61, 83.5],
+    [256, 745, 148, 171, 0, 74, 84],
+    [123, 1, 124, 171, 0, 60, 76.5],
+    [123, 174, 127, 167, 0, 62, 78.5],
+    [249, 1, 147, 159, 0, 73.5, 74.5]
+],
+
+"animations": {
+    "attack": { "frames": [9,13,11,8,5] },
+    "idle": { "frames": [3,1,0,2,4] },
+    "block": { "frames": [7] },
+    "walk": {"frames": [12]},
+    "backward": {"frames": [6]},
+    "hit": {"frames": [10]},
+    "idle/3idle": { "frames": [0] },
+    "idle/2idle": { "frames": [1] },
+    "idle/4idle": { "frames": [2] },
+    "idle/1idle": { "frames": [3] },
+    "idle/5idle": { "frames": [4] },
+    "attack/5attack": { "frames": [5] },
+    "backward/1backward": { "frames": [6] },
+    "block/1block": { "frames": [7] },
+    "attack/4attack": { "frames": [8] },
+    "attack/1attack": { "frames": [9] },
+    "hit/1hit": { "frames": [10] },
+    "attack/3attack": { "frames": [11] },
+    "foward/1forward": { "frames": [12] },
+    "attack/2attack": { "frames": [13] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:6303399d7d40ba708ad0aa6538f2cbcf:1b7b6832529f1047dc19655ea84727f2:f07bef70317604a67ab66becb82ccadf$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

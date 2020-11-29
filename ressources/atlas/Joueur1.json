@@ -1,0 +1,36 @@
+{
+
+"images": [
+    "ressources/atlas/Joueur1.png"
+],
+
+"framerate": 8,
+"frames": [
+    [1, 1, 77, 87, 0, 0, 0],
+    [1, 90, 57, 87, 0, 0, 0],
+    [1, 179, 53, 87, 0, 0, 0],
+    [1, 268, 53, 87, 0, 0, 0],
+    [1, 357, 49, 87, 0, 0, 0],
+    [52, 357, 49, 87, 0, 0, 0],
+    [56, 179, 49, 87, 0, 0, 0],
+    [60, 90, 49, 87, 0, 0, 0],
+    [80, 1, 49, 87, 0, 0, 0],
+    [56, 268, 49, 87, 0, 0, 0],
+    [103, 357, 49, 87, 0, 0, 0],
+    [107, 179, 47, 87, 0, 0, 0],
+    [111, 90, 47, 87, 0, 0, 0]
+],
+
+"animations": {
+    "attack": { "frames": [11, 12, 1, 3, 8] },
+    "idle": { "frames": [2, 3] },
+    "walk": { "frames": [6, 7, 8, 9, 10] },
+    "block": { "frames": [12] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:35cca8006f3b628997814977f24a37c6:389ef2261291cf95142066f2d13bc617:9aaeff2851377c50af31bbd670a4721f$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

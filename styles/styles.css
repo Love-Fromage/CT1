@@ -1,0 +1,45 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;              /* Enlèvement de la marge par défaut */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+canvas {
+  display: block;
+}
+
+@font-face {
+  font-family: 'Share Tech Mono';
+  src: url(../ressources/polices/ShareTechMono.ttf);
+}
+
+#fenetre {
+  position: absolute;
+  margin: 0 auto;
+
+  padding: 30px;
+  border: 3px green solid;
+  font: 36px 'Share Tech Mono', sans-serif;
+  color: green;
+  /*display: none;*/
+}
+
+#fenetre input {
+  width: 100%;
+  font: 36px 'Share Tech Mono', sans-serif;
+  display: block;
+  margin-bottom: 30px;
+}
+
+button {
+  background-color: green;
+  font: 36px 'Share Tech Mono', sans-serif;
+  border: none;
+  width: 50%;
+  cursor: pointer;
+}

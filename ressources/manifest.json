@@ -1,0 +1,27 @@
+{
+  "manifest": [
+
+    {"id": "wall",  "src": "ressources/images/background.jpg"},
+    {"id": "barreCont",  "src": "ressources/images/barreVie.png"},
+    {"id": "barreVie",  "src": "ressources/images/barreActive2.jpg"},
+    {"id": "title", "src": "ressources/images/title.png"},
+    {"id": "left", "src": "ressources/images/left.png"},
+    {"id": "boom", "src": "ressources/images/boom.png"},
+
+
+    {"id": "punchYa",  "src": "ressources/sons/punchYa.wav", "type":  "sound"},
+    {"id": "punchHit",  "src": "ressources/sons/punchHit.wav", "type":  "sound"},
+    {"id": "blockHit",  "src": "ressources/sons/blockHit.wav", "type":  "sound"},
+    {"id": "intro",  "src": "ressources/sons/intro.mp3", "type":  "sound"},
+    {"id": "fightMusic",  "src": "ressources/sons/fightMusic.mp3", "type":  "sound"},
+
+    {"id": "Joueur1", "src":  "ressources/atlas/P1.json", "type": "spritesheet"},
+    {"id": "Joueur2", "src":  "ressources/atlas/P2.json", "type": "spritesheet"},
+    {"id": "walk2", "src":  "ressources/atlas/walk2.json", "type": "spritesheet"},
+    {"id": "punch1", "src":  "ressources/atlas/punch1.json", "type": "spritesheet"}
+
+
+
+  ]
+
+}

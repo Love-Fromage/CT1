@@ -1,0 +1,29 @@
+{
+
+"images": [
+    "ressources/atlas/walk.png"
+],
+
+"framerate": 8,
+"frames": [
+    [1, 1, 49, 87, 0, 0, 0],
+    [1, 90, 49, 87, 0, 0, 0],
+    [52, 1, 49, 87, 0, 0, 0],
+    [52, 90, 49, 87, 0, 0, 0],
+    [103, 1, 49, 87, 0, 0, 0]
+],
+
+"animations": {
+    "walk": { "frames": [0,1,2,3,4] },
+    "2Plan de travail 3": { "frames": [1] },
+    "3Plan de travail 3": { "frames": [2] },
+    "4Plan de travail 3": { "frames": [3] },
+    "5Plan de travail 3": { "frames": [4] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:e88463bdf51233de1565480535ffb630:2ade464d998af9a5521e0dc223109b7c:f9e905ee92ca6262c513e44422b15402$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
